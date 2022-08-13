@@ -64,10 +64,8 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 * **Ticket**: setup, close, log, ...
 * **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
 
-A complete list of commands can be found in the [documentation](https://docs.strangebot.xyz)
 
-
-<p align="center">
+<p align="left">
   •
   <a href="https://docs.strangebot.xyz/">Documentation</a>
   •
