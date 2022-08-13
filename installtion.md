@@ -1,6 +1,10 @@
-# 🤖 About Me
-
-![Strange Bot](https://i.imgur.com/nFrS5wC.png)
+<h1 align="center">
+  <br>
+  <a href="https://github.com/saiteja-madha"><img src="https://i.imgur.com/nFrS5wC.png" alt="Discord Java Script Bot"></a>
+  <br>
+  Discord Java Script Bot
+  <br>
+</h1>
 
 > An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
 > Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
@@ -61,19 +65,6 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 * **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
 
 A complete list of commands can be found in the [documentation](docs/commands/)
-
-### 🤝 Contributing
-
-* Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-* Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
-* You can check all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
-<h1 align="center">
-  <br>
-  <a href="https://github.com/saiteja-madha"><img src="https://i.imgur.com/nFrS5wC.png" alt="Discord Java Script Bot"></a>
-  <br>
-  Discord Java Script Bot
-  <br>
-</h1>
 
 <h4 align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</h4>
 
