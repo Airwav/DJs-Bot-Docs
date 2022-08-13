@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-> An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
+> An awesome multipurpose discord bot built using [discord.js v14](https://discord.js.org) with support for slash commands and context menus
 > Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=752922609733337190\&permissions=397602323830\&scope=bot%20applications.commands)
 >
 > Support Server: [Join Here](https://discord.gg/fE75UShbqB)
