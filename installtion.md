@@ -69,9 +69,9 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
   •
   <a href="https://docs.strangebot.xyz/">Documentation</a>
   •
-  <a href="./docs/additional/installation">Installation</a>
+  <a href="./docs/additional/installation.md">Installation</a>
   •
-  <a href="./docs/additional/tutorials">Tutorials</a>
+  <a href="./docs/additional/tutorials.md">Tutorials</a>
   •
 </p>
 
