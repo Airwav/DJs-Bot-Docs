@@ -33,7 +33,7 @@ npm install
 * Optionally edit `config.js`
 * Type `npm run start` to start the bot
 
-If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
+If you need any additional help, make sure to read our guides [here](./docs/additional/installation.md)
 
 ### Features
 
@@ -64,21 +64,17 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 * **Ticket**: setup, close, log, ...
 * **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
 
-A complete list of commands can be found in the [documentation](docs/commands/)
+A complete list of commands can be found in the [documentation](https://docs.strangebot.xyz)
 
 
 <p align="center">
-  <a href="link">Resource Links</a>
   •
-  <a href="link">Features</a>
+  <a href="https://docs.strangebot.xyz/">Documentation</a>
   •
-  <a href="link">Documentation</a>
+  <a href="./docs/additional/installation">Installation</a>
   •
-  <a href="link">Prerequisites</a>
+  <a href="./docs/additional/tutorials">Tutorials</a>
   •
-  <a href="link">Installation</a>
-  •
-  <a href="link">Tutorials</a>
 </p>
 
 <p align="center">
@@ -94,9 +90,6 @@ A complete list of commands can be found in the [documentation](docs/commands/)
 </p>
 
 <br />
-
-## ✅ An assistant bot designed with Discord.js v14, equipped with all the features you need...
-
 <br />
 
 ## 🔗 Resource Links
@@ -107,9 +100,9 @@ A complete list of commands can be found in the [documentation](docs/commands/)
 
 <br />
 
-## - [✨ Features](Link) <--- Click For View
+## - [✨ Features](./docs/SUMMARY.md) <--- Click For View
 
-## - [🪄 Installation](Link) <--- Click For View
+## - [🪄 Installation](./docs/additional/installation.md) <--- Click For View
 
 <br />
 
