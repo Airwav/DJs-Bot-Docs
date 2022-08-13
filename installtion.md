@@ -66,7 +66,6 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 
 A complete list of commands can be found in the [documentation](docs/commands/)
 
-<h4 align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</h4>
 
 <p align="center">
   <a href="link">Resource Links</a>
@@ -81,9 +80,6 @@ A complete list of commands can be found in the [documentation](docs/commands/)
   •
   <a href="link">Tutorials</a>
 </p>
-<h1 align="center">
-🤖 Discord.js v14 Bot | 💼 Saiteja Madha 
-</h1>
 
 <p align="center">
 <a href="https://discord.gg/YCJeYxbcJ2">
