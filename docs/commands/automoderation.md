@@ -1,0 +1,9 @@
+## 🤖 | Auto Moderation Systems
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### **Auto Moderation Contents:**
+
+- 🛑 **Anti System** <br /> *Commands:* `anti ghostping`, `anti spam`, `anti massmention`, ...
+- 🗑️ **Auto Delete System** <br /> *Commands:* `autodelete attachements`, `autodelete invites`, `autodelete links`, `autodelete maxlines`, ...
+- 🛡️ **AutoMod System** <br /> *Commands:* `automod status`, `automod strikes`, `automod action`, `automod debug`, `automod whitelist`, ...
