@@ -6,74 +6,18 @@
   <br>
 </h1>
 
-> An awesome multipurpose discord bot built using [discord.js v14](https://discord.js.org) with support for slash commands and context menus
-> Demo Bot: [⚠Token Compromised]()
->
-> Support Server: [Join Here](https://discord.gg/fE75UShbqB)
->
-> Documentation URL: [Visit Here](https://docs.strangebot.xyz)
-### Prerequisites
 
-* [Node.js](https://nodejs.org/en/) v16.6.0 or higher
-* [Git](https://git-scm.com/downloads)
-* [MongoDB](https://www.mongodb.com)
-
-### Getting Started
-
-* Open the terminal and run the following commands
-
-```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
-cd discord-js-bot
-npm install
-```
-
-* Wait for all the dependencies to be installed
-* Rename `.env.example` to `.env` and fill the values
-* Optionally edit `config.js`
-* Type `npm run start` to start the bot
-
-If you need any additional help, make sure to read our guides [here](./docs/additional/installation.md)
-
-### Features
-
-Strange is a feature-rich discord bot with new features constantly being updated! Current features include
-
-* **Auto-Moderation**: Power auto-moderation to keep your discord server clean
-* **Powerful Moderation with Logging**: Moderate and log every action you take
-* **Image Manipulation**: Have fun with various image `filters` and `generators`
-* **Economy & XP System**: Engage user interaction with the economy and Levelling system
-* **Invite Tracking**: Best invite tracking with configurable invite ranks
-* **Ticketing**: Support for creating multiple `ticket` channels
-* **Reaction Roles**: Support for creation of multiple custom reaction roles
-* **Greeting**: Highly Customizable welcome and farewell embeds
-
-### Categories
-
-Strange has an extensive list of all useful commands (**more than 100**) which are categorized as follows
-
-* **Automod**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
-* **Admin**: `welcome`, `farewell`, `reaction-roles`, ...
-* **Economy**: `daily`, `gamble`, `deposit`, `withdraw`, `transfer`, ...
-* **Fun**: `cat`, `doc`, `flipcoin`, `fliptext`, ...
-* **Information**: `avatar`, `roleinfo`, `channelinfo`, `guildinfo`, `profile`, ...
-* **Invites**: `inviter`, `invites`, `invitesimport`, `invitecodes`, ...
-* **Moderation**: `warn`, `kick`, `softban`, `ban`, `mute`, `unmute`, ...
-* **Music**: `play`, `pause`, `resume`, `stop`, `skip`, `queue`, `np`, ...
-* **Social**: `reputation list,` `give reputation,` ...
-* **Ticket**: `setup`, `close`, `log`, ...
-* **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
-
-
-<p align="left">
-  •
+<p align="center">
   <a href="https://docs.strangebot.xyz/">Documentation</a>
   •
-  <a href="./docs/additional/installation.md">Installation</a>
+  <a href="docs/additional/installation.md">Installation</a>
   •
-  <a href="./docs/additional/tutorials.md">Tutorials</a>
-  •
+  <a href="docs/additional/tutorials.md">Tutorials</a>
 </p>
+
+<h1 align="center">
+Discord JS Bot
+</h1>
 
 <p align="center">
 <a href="https://discord.gg/YCJeYxbcJ2">
@@ -88,6 +32,10 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 </p>
 
 <br />
+
+## ✅ An assistant bot designed with Discord.js v14, equipped with all the features you need...
+
+
 <br />
 
 ## 🔗 Resource Links
@@ -96,13 +44,48 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 - 🤝 Support Server: [Join Here](https://discord.gg/fE75UShbqB)
 - 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
 
-<br />
+<br/>
 
-## - [✨ Features](./docs/SUMMARY.md) <--- Click For View
 
-## - [🪄 Installation](./docs/additional/installation.md) <--- Click For View
+## 📡 | DASHBOARD!
 
-<br />
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/889325575108444232/1030560604655714314/firefox_NOONZt89kK.png" />
+
+### **Dashboard Contents:**
+
+- **Invite Tracking**
+- **Stats Tracking**
+- **Anti System**
+- **More Logging Options**
+- **Whitelist Channels**
+- **ImageURL On Welcome and Farewell Configuration**
+<br/>
+<br/>
+<br/>
+
+# Features ✨
+
+• <a href="docs/commands/admin.md">Admin</a>
+• <a href="docs/commands/automoderation.md">AutoModeration</a>
+• <a href="docs/commands/anime.md">Anime</a>
+• <a href="docs/commands/economy.md">Economy</a>
+• <a href="docs/commands/fun.md">Fun</a>
+• <a href="docs/commands/giveaway.md">Giveaway</a>
+• <a href="docs/commands/image.md">Image</a>
+• <a href="docs/commands/invites.md">Invite</a>
+• <a href="docs/commands/information.md">Information</a>
+• <a href="docs/commands/moderation.md">Moderation</a>
+• <a href="docs/commands/music.md">Music</a>
+• <a href="docs/commands/owner.md">Owner</a>
+• <a href="docs/commands/social.md">Social</a>
+• <a href="docs/commands/statistics.md">Statistics</a>
+• <a href="docs/commands/suggestion.md">Suggestion</a>
+• <a href="docs/commands/ticket.md">Ticket</a>
+• <a href="docs/commands/utility.md">Utility</a>
+
+<br/>
+<br/>
+
 
 **Languages and Tools:**  
 
@@ -110,11 +93,6 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br/>
-<a href="https://github.com/saiteja-madha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&exclude_repo=procon-plugins" />
-</a>
-<br/>
+![Saiteja Madha's Stats](https://github-readme-stats.vercel.app/api?username=saiteja-madha&show_icons=true&hide_border=true)
 
 By [Saiteja Madha](https://github.com/saiteja-madha)
