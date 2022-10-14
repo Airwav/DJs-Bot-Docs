@@ -49,7 +49,7 @@ Discord JS Bot
 
 ## 📡 | DASHBOARD!
 
-  <img align="right" src="https://media.discordapp.net/attachments/889325575108444232/1030560604655714314/firefox_NOONZt89kK.png?width=960&height=448" />
+  <img align="right" src="https://cdn.discordapp.com/attachments/951172393869639711/1030562950810976306/unknown.png" />
 
 ### **Dashboard Contents:**
 
