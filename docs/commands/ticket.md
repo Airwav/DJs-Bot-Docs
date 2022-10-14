@@ -1,7 +1,8 @@
 
 ## 🎟 | Ticket System
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1000111524595122236/1030564981936234536/Discord_yHFmcSZDuM.png" />
+    <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1000111524595122236/1030565106364465203/Discord_Pk3DmHfBvd.png" />
 
 ### **Ticket Contents:**
 
